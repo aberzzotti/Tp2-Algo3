@@ -126,8 +126,5 @@ int main() {
      double probaDePerder = 1 - probaDeGanar;
  
     cout << fixed << setprecision(5) << probaDePerder << endl;
- 
- 
-    cout << endl;
     return 0;
 }
